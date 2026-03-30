@@ -2,4 +2,4 @@
 
 Portfolio pessoal de Barbara Rocha.
 
-Acesse: https://barbs-rocha.github.io
+Acesse: https://barbs-rocha/barbaracrocha.github.io
