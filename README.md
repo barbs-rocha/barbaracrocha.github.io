@@ -2,6 +2,8 @@
 
 Portfolio pessoal de Barbara Rocha.
 
-Username = barbs-rocha
-Perfil = barbs-rocha.github.io
-Email = barbara@mapeiatech.co
+Username:barbs-rocha
+
+Perfil: https://barbs-rocha.github.io
+
+Email: barbara@mapeiatech.co
